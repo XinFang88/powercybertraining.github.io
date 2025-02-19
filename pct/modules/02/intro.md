@@ -1,6 +1,6 @@
 
-# Data analytics and visualization in Python
-## Overview: Time Series Data Analysis 
+# Data Analytics and Visualization
+## Overview: Time Series Data Analysis
 
 ### Objective
 
@@ -17,7 +17,7 @@ Source of data: https://www.neso.energy/industry-information/balancing-services/
 
 ## Overview: Forecasting Solar-Energy Output
 ### Objective
-The primary objective is to build and evaluate a predictive model, with a focus on understanding the relative importance of different features in making predictions. The model deals with structured data and aims to optimize prediction accuracy while providing explainability.  
+The primary objective is to build and evaluate a predictive model, with a focus on understanding the relative importance of different features in making predictions. The model deals with structured data and aims to optimize prediction accuracy while providing explainability.
 We use historical time-series data from a specified region in Mississippi from 2006 to analyze and forecast solar-energy output.
 
 ### Key Components
