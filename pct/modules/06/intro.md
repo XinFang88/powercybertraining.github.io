@@ -2,7 +2,8 @@
 
 ## Overview
 
-This module provides an overview of transmission-and-distribution (T&D) system co-simulation.
+This module provides an overview of transmission-and-distribution (T&D) system dynamic co-simulation.
+With more distributed energy resources (DER) integrated into power systems, their proactive role of providing various grid services should be investigated more rigorously from both transmission and distribution networks. This necessitates the transmission and distribution cosimulation requirement. Previously, transmission simulation including optimization and dynamic simulation and distribution simulation are usually separated due to the different timescale of studies. This separated simulation exhibits inadequacies when handling DER integration.
 The Hierarchical Engine for Large-scale Infrastructure Co-Simulation (HELICS) facilitates communication
 between the transmission and distribution systems to enable co-simulation. ANDES serves as the transmission system
 simulator, while OpenDSS is utilized for simulating the distribution system. In this framework, active and reactive
